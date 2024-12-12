@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Bitte wählen Sie hier Ihre Sprache aus</string>
+    <string name="subscription_dialogo" >Hoppla, tut mir leid Kann nicht auf Daten oder Wi-Fi-Netzwerk zugreifen: Der werbefreie und Offline-Modus ist nur für Premium-Benutzer verfügbar. Machen Sie einen einmaligen Kauf, um diese und zukünftige Vorteile dauerhaft zu genießen. n_n/
+
+
+
+</string>
+    <string name="vervideo">Schau Video</string>
+    <string name="comprar">Kaufen Sie die Pro-Version</string>
+    <string name="regresar">Geh zurück</string>
+    <string name="vervideotexto">Sehen Sie sich das Video an, um die Pflegediagnose anzusehen</string>
+    <string name="comprartexto">Werbung und Offline-Modus dauerhaft entfernen</string>
+    <string name="sololibrotexto">Werbung für dieses Buch entfernen</string>
+    <string name="sololibro">Diagnosebuch kaufen</string>
+
+
+</resources>

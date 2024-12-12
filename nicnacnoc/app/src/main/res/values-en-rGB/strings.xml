@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Please select your language here</string>
+    <string name="subscription_dialogo" >oopss sorry Can\'t access data or Wi-Fi network: Ad-free and offline mode is only available for premium users, make a one-time purchase to enjoy these and future benefits permanently. n_n/
+
+</string>
+    <string name="vervideo">watch video</string>
+    <string name="comprar">Buy Pro Version</string>
+    <string name="regresar">Go back</string>
+    <string name="vervideotexto">Watch Video to view the nursing diagnosis</string>
+    <string name="comprartexto">Permanently remove advertising and Offline Mode</string>
+    <string name="sololibrotexto">Remove advertising for this book</string>
+    <string name="sololibro">Buy Diagnostic Book</string>
+
+</resources>

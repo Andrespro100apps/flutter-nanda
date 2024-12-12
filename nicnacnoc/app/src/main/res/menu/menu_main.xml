@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#CFE6FF"
+    tools:context="com.apps.andrespro100.pokertricksnew.MainActivity">
+
+
+    <item
+        android:id="@+id/favoritos"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        android:visible="true"
+        app:showAsAction="always"
+
+
+        />
+<!--    app:actionViewClass="androidx.appcompat.widget.SearchView"-->
+    <item
+        android:id="@+id/valorar"
+        android:icon="@drawable/baseline_favorite_24white"
+        android:orderInCategory="101"
+        android:title="Valorar"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/action_share"
+        android:title="Share"
+
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"
+        ></item>
+
+
+    <item android:id="@+id/action_about" android:title="About"
+        android:background="#CFE6FF"
+
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item
+        android:id="@+id/valorarr"
+        android:icon="@drawable/ic_rate2"
+        android:orderInCategory="100"
+        android:title="Value Calificar"
+        android:visible="false"
+        app:showAsAction="never" />
+
+</menu>

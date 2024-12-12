@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Seleziona qui la tua lingua</string>
+    <string name="subscription_dialogo" >oopss scusa Impossibile accedere ai dati o alla rete Wi-Fi - La modalità offline e nessuna pubblicità è disponibile solo per gli utenti premium, effettua un acquisto una tantum per usufruire di questi e futuri vantaggi in modo permanente. n_n/
+</string>
+    <string name="vervideo">Guarda un video</string>
+    <string name="comprar">Acquista la versione Pro</string>
+    <string name="regresar">Torna indietro</string>
+    <string name="vervideotexto">Guarda il video per visualizzare la diagnosi infermieristica</string>
+    <string name="comprartexto">Rimuovi definitivamente la pubblicità e la modalità offline</string>
+    <string name="sololibrotexto">Rimuovi la pubblicità per questo libro</string>
+    <string name="sololibro">Acquista il libro diagnostico</string>
+</resources>

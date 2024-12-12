@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Пожалуйста, выберите ваш язык здесь</string>
+    <string name="subscription_dialogo" >Не удается получить доступ к данным или сети Wi-Fi. Автономный режим и отсутствие рекламы доступны только для премиум-пользователей. Оформите подписку, чтобы пользоваться этими и будущими преимуществами. н_н/</string>
+    <string name="vervideo">смотреть видео</string>
+    <string name="comprar">Купить Pro-версию</string>
+    <string name="regresar">Возвращаться</string>
+    <string name="vervideotexto">Посмотрите видео, чтобы просмотреть сестринский диагноз</string>
+    <string name="comprartexto">"Навсегда удалить рекламу и автономный режим "</string>
+    <string name="sololibrotexto">Удалить рекламу этой книги</string>
+    <string name="sololibro">Купить диагностическую книгу</string>
+</resources>

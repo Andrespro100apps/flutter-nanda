@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">请在此处选择您的语言</string>
+    <string name="subscription_dialogo" >抱歉，無法訪問數據或 wifi 網絡 - 離線模式且無廣告僅適用於高級用戶，一次性購買即可永久享受這些和未來的好處。 n_n/</string>
+    <string name="vervideo">看影片</string>
+    <string name="comprar">購買專業版</string>
+    <string name="regresar">回去</string>
+    <string name="vervideotexto">觀看影片查看護理診斷</string>
+    <string name="comprartexto">永久刪除廣告和離線模式</string>
+    <string name="sololibrotexto">刪除這本書的廣告</string>
+    <string name="sololibro">購買診斷書ं</string>
+</resources>

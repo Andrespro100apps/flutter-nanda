@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132142424277",
+    "project_id": "nursing-nanda-noc-nic-icd10",
+    "storage_bucket": "nursing-nanda-noc-nic-icd10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132142424277:android:a0186199fbae885a83825c",
+        "android_client_info": {
+          "package_name": "com.nursing.nandapro.nicnoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132142424277-u6brfmentmjc2g122sr2c4aploit69pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursing.nandapro.nicnoc",
+            "certificate_hash": "70b52b80c5397b8cebfdb2472fc467c82a5d78ee"
+          }
+        },
+        {
+          "client_id": "132142424277-4dum4ppqkgk5adkh48hn2o7s0698g79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBAZ2PuwE2yp5qp7PIATpfsq45kRAoapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132142424277-4dum4ppqkgk5adkh48hn2o7s0698g79b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

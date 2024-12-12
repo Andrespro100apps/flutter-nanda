@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">कृपया यहां अपनी भाषा चुनें</string>
+    <string name="subscription_dialogo" >डओह क्षमा करें डेटा या वाई-फ़ाई नेटवर्क तक नहीं पहुंच सकता - ऑफ़लाइन मोड और कोई विज्ञापन केवल प्रीमियम उपयोगकर्ताओं के लिए उपलब्ध नहीं है, इन और भविष्य के लाभों का स्थायी रूप से आनंद लेने के लिए एक बार की खरीदारी करें। n_n/</string>
+    <string name="vervideo">वीडियो देखें</string>
+    <string name="comprar">प्रो संस्करण खरीदें</string>
+    <string name="regresar">वापस जाओ</string>
+    <string name="vervideotexto">नर्सिंग निदान देखने के लिए वीडियो देखें</string>
+    <string name="comprartexto">विज्ञापन और ऑफ़लाइन मोड को स्थायी रूप से हटा दें</string>
+    <string name="sololibrotexto">इस पुस्तक का विज्ञापन हटाएँ</string>
+    <string name="sololibro">डायग्नोस्टिक पुस्तक खरीदें</string>
+
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#AB919191"
+    android:gravity="center"
+    tools:context=".Fragments.RewardedFragment">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="650dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/fondocartel2"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="33dp">
+
+                        <TextView
+                            android:id="@+id/textView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="1dp"
+                            android:text="@string/vervideotexto"
+
+                            android:textColor="#333333"
+                            android:textSize="23sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/button1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/textView1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="16dp"
+                            android:background="#DF648E"
+                            android:drawableEnd="@drawable/ic_play"
+                            android:drawableTint="#fff"
+                            android:padding="10dp"
+                            android:text="@string/vervideo"
+
+                            android:textColor="#fff" />
+
+
+                        <TextView
+                            android:id="@+id/textView5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/button1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="16dp"
+                            android:text="@string/sololibrotexto"
+                            android:textColor="#333333"
+                            android:textSize="23sp"
+                            android:textStyle="bold" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="9dp"
+
+                            android:orientation="horizontal">
+
+
+                                <Button
+                                    android:id="@+id/button2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="79dp"
+                                    android:layout_below="@id/textView2"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="16dp"
+                                    android:background="#0087b5"
+                                    android:drawableTint="#fff"
+                                    android:padding="9dp"
+                                    android:text="@string/sololibro"
+
+                                    android:textColor="#fff" />
+                                <ImageView
+                                    android:id="@+id/imgLibro"
+                                    android:layout_width="110dp"
+                                    android:layout_height="109dp"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_marginTop="5dp"
+                                    android:src="@drawable/libronanda" />
+
+                        </LinearLayout>
+
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/button1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="13dp"
+                            android:text="@string/comprartexto"
+                            android:textColor="#333333"
+                            android:textSize="23sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/btnUnlockAll"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:background="#EA2F6F"
+                            android:drawableTint="#fff"
+                            android:text="@string/comprar"
+                            android:textColor="#fff" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="80dp"
+                            android:layout_below="@id/button2"
+                            android:layout_margin="6dp"
+                            android:orientation="horizontal">
+
+                                <Button
+                                    android:id="@+id/button3"
+                                    android:layout_width="219dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="23dp"
+                                    android:background="#FFFFFF"
+
+                                    android:drawableStart="@drawable/ic_arrow_back"
+                                    android:padding="10dp"
+                                    android:text=" Regresar" />
+
+                        </LinearLayout>
+                </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Wybierz swój język tutaj</string>
+    <string name="subscription_dialogo" >Ups przepraszam Nie mam dostępu do danych ani sieci Wi-Fi - Tryb offline i brak reklam jest dostępny tylko dla użytkowników premium. Dokonaj jednorazowego zakupu, aby na stałe cieszyć się tymi i przyszłymi korzyściami. n_n/</string>
+    <string name="vervideo">obejrzyj wideo</string>
+    <string name="comprar">Kup wersję Pro</string>
+    <string name="regresar">Wróć</string>
+    <string name="vervideotexto">Obejrzyj film, aby zobaczyć diagnozę pielęgniarską</string>
+    <string name="comprartexto">Trwale usuń reklamy i tryb offline</string>
+    <string name="sololibrotexto">Usuń reklamy tej książki</string>
+    <string name="sololibro">Kup książkę Diagnostyka</string>
+</resources>

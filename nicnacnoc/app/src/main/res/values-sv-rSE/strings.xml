@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Välj ditt språk här</string>
+    <string name="subscription_dialogo" >Cannot access data or wifi network - Offline mode and no ads only available for premium users, please get a subscription to enjoy these and future benefits. n_n/</string>
+    <string name="vervideo">kolla på video</string>
+    <string name="comprar">Köp Pro-version</string>
+    <string name="regresar">Gå tillbaka</string>
+    <string name="vervideotexto">Titta på video för att se omvårdnadsdiagnosen</string>
+    <string name="comprartexto">Ta bort reklam och offlineläge permanent</string>
+    <string name="sololibrotexto">Ta bort reklam för den här boken</string>
+    <string name="sololibro">Köp diagnostikbok</string>
+</resources>

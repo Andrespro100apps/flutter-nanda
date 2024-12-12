@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+
+    <string name="interaid" translatable="false">ca-app-pub-5569462703668030/2338164089</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-5569462703668030/3068221005</string>
+    <string name="nativeid" translatable="false">ca-app-pub-5569462703668030/7022163481</string>
+    <string name="idioma">Please select your language here</string>
+    <string name="vervideo">Ver Video</string>
+    <string name="comprar">Comprar Versión Pro </string>
+    <string name="regresar">Regresar</string>
+
+
+    <string name="removed_ads" translatable="false">Removed Ads</string>
+    <string name="subscriptions" translatable="false">Subscriptions</string>
+    <string name="subscription_terms" translatable="false">Subscriptions are recurring. You will be automatically be billed through your Google Play Store Account. Your subscription will auto-renew unless you cancel. You can manage your subscription in the settings in the Google Play Store</string>
+    <string name="not_subscribed" translatable="false">Not Subscribed</string>
+    <string name="product_id" translatable="false">premium</string>
+    <string name="subscribe" translatable="false">Subscribe</string>
+    <string name="restore" translatable="false">Restore</string>
+    <string name="restore_purchases" translatable="false">Restore Purchases</string>
+    <string name="remove_ads" translatable="false">Remove Ads</string>
+    <string name="price_and_duration" translatable="false">Price and duration</string>
+
+    <string name="subscription_dialogo">oopss sorry Can\'t access data or Wi-Fi network: Ad-free and offline mode is only available for premium users, make a one-time purchase to enjoy these and future benefits permanently. = oopss lo sentimos No se puede acceder a los datos o a la red wifi: el modo sin conexión y sin anuncios solo está disponible para usuarios premium, haga una unica compra para disfrutar de estos y futuros beneficios permanentemente. n_n/</string>
+
+    <string name="adUnitIdRewarded" translatable="false">ca-app-pub-5569462703668030/3105042426</string>
+
+
+    <string name="unit" tools:ignore="MissingTranslation">Cm</string>
+    <string name="femaletext" tools:ignore="MissingTranslation">Female</string>
+    <string name="age" tools:ignore="MissingTranslation">Age</string>
+    <string name="startingheight" tools:ignore="MissingTranslation">170</string>
+    <string name="startingweight" tools:ignore="MissingTranslation">55</string>
+    <string name="startingage" tools:ignore="MissingTranslation">22</string>
+    <string name="todo" tools:ignore="MissingTranslation">TODO</string>
+    <string name="height" tools:ignore="MissingTranslation">Height</string>
+    <string name="calculate_your_bmi" tools:ignore="MissingTranslation">Calculate Your BMI</string>
+    <string name="weight" tools:ignore="MissingTranslation">Weight</string>
+    <string name="male" tools:ignore="MissingTranslation">Male</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vervideotexto">Ver Vídeo para visualizar el diagnóstico de enfermeria</string>
+    <string name="comprartexto">Eliminar publicidad permanentemente y Modo Offline</string>
+    <string name="sololibrotexto">Eliminar publicidad este libro</string>
+    <string name="sololibro">Comprar Libro Diagnosticos</string>
+
+
+
+</resources>

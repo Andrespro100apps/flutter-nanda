@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Calculadora">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calculo de goteo"
+                android:textSize="34sp"
+                app:layout_constraintBottom_toTopOf="@+id/sumagoteo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+
+            <EditText
+                android:id="@+id/sumagoteo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="number"
+                app:layout_constraintBottom_toTopOf="@+id/restagoteo"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="34dp" />
+
+            <EditText
+                android:id="@+id/restagoteo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="number"
+                app:layout_constraintBottom_toTopOf="@+id/textView4"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="34dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="resultado"
+                app:layout_constraintBottom_toTopOf="@+id/resultado"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="170dp" />
+
+            <TextView
+                android:id="@+id/resultado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                app:layout_constraintBottom_toTopOf="@+id/calcular"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="170dp" />
+
+            <Button
+                android:id="@+id/calcular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="lanzarcalcular"
+                android:text="calcular"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="158dp"
+                tools:layout_editor_absoluteY="457dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

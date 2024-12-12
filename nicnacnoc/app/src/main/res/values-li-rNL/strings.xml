@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Selecteer hier uw taal</string>
+
+<string name="subscription_dialogo" >Geen toegang tot gegevens of wifi-netwerk - Offline modus en geen advertenties alleen beschikbaar voor premium gebruikers, neem een ​​abonnement om van deze en toekomstige voordelen te genieten. n_n/</string>
+    <string name="vervideo">bekijk video</string>
+    <string name="comprar">Koop Pro-versie</string>
+    <string name="regresar">Ga terug</string>
+    <string name="vervideotexto">Bekijk de video om de verpleegkundige diagnose te bekijken</string>
+    <string name="comprartexto">Verwijder advertenties en de offlinemodus definitief</string>
+    <string name="sololibrotexto">Verwijder reclame voor dit boek</string>
+    <string name="sololibro">Diagnostisch boek kopen</string>
+</resources>

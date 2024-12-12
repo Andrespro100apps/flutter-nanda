@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+    <application
+        android:name="com.nursing.nandapro.nicnoc.Activitys.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Nicnacnoc">
+
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.DiagnosticoBusqueda.DiagnosticosBusqueda"
+            android:exported="false">
+<!--            <meta-data-->
+<!--                android:name="android.app.lib_name"-->
+<!--                android:value="" />-->
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Calculators.Calculadoraweb"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Tutorial"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro4"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Calculadora"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.Subscriptions"
+            android:exported="false"
+            tools:ignore="MissingClass">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.WallpaerPagerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.SecongPage"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Walpapers"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Cie10clases"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Cie10"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Calculators.Calculadoras"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Calculators.Bmi"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Calculators.Bmiactivity"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Chatmain"
+            android:exported="true" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro2"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro2clases"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro2diagnostico"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro2descripcion"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Favoritos"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.DescripcionDiagnosticoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.DiagnosticosListActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.ClasesListActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.DominiosListActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro3"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro3clases"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro3descripcion"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro3diagnostico"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro4clases"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro4descripcion"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Libro4diagnostico"
+            android:exported="false" />
+        <activity
+            android:name="com.nursing.nandapro.nicnoc.Activitys.MainActivity"
+            android:exported="true" /> <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5569462703668030~6303978188" />
+    </application>
+
+</manifest>

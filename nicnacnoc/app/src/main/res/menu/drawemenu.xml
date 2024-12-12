@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item android:id="@+id/bmi" android:title="CALCULATE" android:icon="?android:attr/actionModeFindDrawable" />
+
+    <item android:id="@+id/tutorial" android:title="TUTORIAL" android:icon="@drawable/ic_youtu" />
+    <item android:id="@+id/walpappers" android:title="WALLPAPERS" android:icon="@android:drawable/ic_menu_gallery" />
+    <item android:id="@+id/website" android:title="NOT ADS" android:icon="@drawable/ic_web" />
+    <item android:id="@+id/inste" android:title="INSTAGRAM" android:icon="@drawable/ic_int" />
+    <item android:id="@+id/tiktok" android:title="TIKTOK" android:icon="@drawable/tiktok" />
+    <item android:id="@+id/face" android:title="FACEBOOK" android:icon="@drawable/ic_fb" />
+    <item android:id="@+id/tui" android:title="TWITTER" android:icon="@drawable/ic_tui" />
+
+
+    <item android:title="Options">
+        <menu>
+
+            <item android:id="@+id/share" android:title="share/أرسل حصة" android:icon="@drawable/ic_share" />
+
+
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_rate"
+                android:title="rate/مؤهل" />
+            <item android:id="@+id/home" android:title="Pro/Apps" android:icon="@drawable/ic_home" />
+            <item android:id="@+id/info" android:title="Informacion/Info" android:icon="@drawable/ic_info" />
+        </menu>
+
+    </item>
+
+
+</menu>

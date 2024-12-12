@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Selecteer hier uw taal</string>
+    <string name="subscription_dialogo" >Geen toegang tot gegevens of wifi-netwerk - Offline modus en geen advertenties alleen beschikbaar voor premium gebruikers, neem een ​​abonnement om van deze en toekomstige voordelen te genieten. n_n/</string>
+    <string name="vervideo">kucken Video</string>
+    <string name="comprar">Kafen Pro Versioun</string>
+    <string name="regresar">Géi zréck</string>
+    <string name="vervideotexto">Kuckt de Video fir d\'Infirmière Diagnos ze gesinn</string>
+    <string name="comprartexto">Permanent ewechzehuelen Reklammen an Offline Modus</string>
+    <string name="sololibrotexto">Ewechzehuelen Reklammen fir dëst Buch</string>
+    <string name="sololibro">Kafen Diagnostic Buch</string>
+</resources>

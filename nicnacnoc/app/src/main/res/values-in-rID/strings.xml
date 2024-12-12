@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Silakan pilih bahasa Anda di sini</string>
+    <string name="subscription_dialogo" >oopss maaf Tidak dapat mengakses data atau jaringan wifi - Mode offline dan tidak ada iklan hanya tersedia untuk pengguna premium, lakukan pembelian satu kali untuk menikmati manfaat ini dan manfaat yang akan datang secara permanen. n_n/
+</string>
+    <string name="vervideo">Menonton video</string>
+    <string name="comprar">Beli Versi Pro</string>
+    <string name="regresar">Kembali</string>
+    <string name="vervideotexto">Tonton Video untuk melihat diagnosis keperawatan</string>
+    <string name="comprartexto">Hapus iklan dan Mode Offline secara permanen</string>
+    <string name="sololibrotexto">Hapus iklan untuk buku ini</string>
+    <string name="sololibro">Beli Buku Diagnostik</string>
+</resources>

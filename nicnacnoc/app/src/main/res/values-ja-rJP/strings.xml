@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">ここで言語を選択してください</string>
+    <string name="subscription_dialogo" >データまたは Wi-Fi ネットワークにアクセスできません: 広告なしのオフライン モードは、プレミアム ユーザーのみが利用できます。1 回限りの購入で、これらの特典と将来の特典を永久に楽しむことができます。 n_n/</string>
+    <string name="vervideo">ビデオを見る</string>
+    <string name="comprar">プロ版を購入する</string>
+    <string name="regresar">戻る</string>
+    <string name="vervideotexto">看護診断をビデオで見る</string>
+    <string name="comprartexto">広告とオフライン モードを完全に削除します</string>
+    <string name="sololibrotexto">この本の広告を削除する</string>
+    <string name="sololibro">診断本を購入する</string>
+</resources>

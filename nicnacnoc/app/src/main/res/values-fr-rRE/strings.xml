@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursing NANDA NOC NIC PAE ICD</string>
+    <string name="idioma">Veuillez sélectionner votre langue ici</string>
+    <string name="subscription_dialogo" >oopss désolé Impossible d\'accéder aux données ou au réseau wifi - Le mode hors ligne et aucune publicité n\'est disponible que pour les utilisateurs premium, effectuez un achat unique pour profiter de ces avantages et des avantages futurs en permanence. n_n/</string>
+    <string name="vervideo">voir vidéo</string>
+    <string name="comprar">Acheter la version Pro</string>
+    <string name="regresar">Retourner</string>
+    <string name="vervideotexto">Regardez la vidéo pour voir le diagnostic infirmier</string>
+    <string name="comprartexto">Supprimer définitivement la publicité et le mode hors ligne</string>
+    <string name="sololibrotexto">Supprimer la publicité pour ce livre</string>
+    <string name="sololibro">Acheter un livre de diagnostic</string>
+
+</resources>
